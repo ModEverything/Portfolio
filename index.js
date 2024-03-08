@@ -6,8 +6,8 @@ function error404(res){
 	res.end(`<!DOCTYPE html>
 							 <html style="overflow-y: hidden;">
 							 <head>
-							 <title>WokeWire - Error 404</title>
-							 <meta content="WokeWire" property="og:title" />
+							 <title>Portfolio - Error 404</title>
+							 <meta content="Portfolio" property="og:title" />
 							 <meta content="404: Article Not Found" property="og:description" />
 							 <meta content="#513d52" data-react-helmet="true" name="theme-color" />
 							 </head>
