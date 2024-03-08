@@ -1,0 +1,40 @@
+{
+	"Articles":[
+		{
+			"Title":"My Portfoilio as a Website",
+			"Content":"<p>This site was originally intended to be a blog site which I wanted to make as a satire. However, I realized that this could be used practically by making it into portfoilio of sorts. Allowing me to add the multitude of projects I work on!</p><h2>How It Was Made</h2><p>This website uses Javascript on it's serverside, thanks to NodeJS. The data for each post is stored in a JSON file. JSON stands for <ul><li>Java</li><li>Script</li><li>Object</li><li>Notation</li></ul></p><p>By using JSON to store data, it is easier to read in NodeJS, and it's very easy to read.</p><h2>Hosting</h2><p>Coming soon!</p>",
+			"ImageURL":"https://i.ibb.co/5Yh14G9/Screenshot-2024-03-04-141055.png",
+			"Date":"March 4th 2024",
+			"EditDate":"",
+			"Tags":["JS","Coding","Website"],
+			"Author":"The Programmer"
+		},
+		{
+			"Title":"PLPMod",
+			"Content":"<p>PLPMod is a chrome extension which it's goal is to allow the user to customize their experience for <a href=\"https://www.schoolsplp.com/\">SchoolsPLP</a>. It is the main reason the extension comes with a dashboard and every modification can be toggled.</p><h2>Why?</h2><p>I created this because I was annoyed that I had to click an orange button to view my class. I thought it would be much easier to just click on the div the class is on. This started my journey into chrome extension development.</p><h2>Features</h2><p>PLPMod is currently on version 1.1.3 with 37 users. With the following features:<ul><li>Support for Buzz (for most features)</li><li>Custom PFPs</li><li>Custom Backgrounds</li><li>Remove GO Button</li><li>Open Class as List Instead of Last Assignment</li><li>Background Behind Assignments</li><li>Button to Open The WhatIf Calculator (A feature only implemented in Buzz, but my extension allows the user to use this in PLP)</li><li>See Grade Numbers Instead of Letters</li><li>Click On Links Submitted to PLP</li></ul> and more coming soon!</p>",
+			"ImageURL":"https://i.ibb.co/RB7HFh9/Screenshot-2024-03-04-143602.png",
+			"Date":"March 4th 2024",
+			"EditDate":"",
+			"Tags":["Coding","Extension","JS"],
+			"Author":"The Programmer"
+		},
+		{
+			"Title":"Windows 95 on a Virtual Machine",
+			"Content":"<p>For this project I wanted to play around with Windows 95 on a virtual machine. I have learned quite a lot from this. First off, Windows 95 needs MS-DOS in order to install. There are also a lot of helpful resources and programs for installing Windows 95. One of these is a CPU fix, since Windows 95 can't run on CPUs above 1 GHz.</p><p>I also did quite a few things on the system. I increased the color resolution to 256-bit color, allowing for better images. I installed some updates and RetroZilla. Then connected Windows 95 to the internet by installing TCP/IP protocols. Then used the internet to grab the background image for the desktop. I also installed a few DOS games like Prince of Persia.</p>",
+			"ImageURL":"https://i.ibb.co/LtQwZzM/Screenshot-2024-03-04-150030.png",
+			"Date":"March 4th 2024",
+			"EditDate":"",
+			"Tags":["VM","DOS","Windows 95"],
+			"Author":"The Programmer"
+		},
+		{
+			"Title":"Another Project",
+			"Content":"Coming Soon...",
+			"ImageURL":"https://cdn.deliveryquotecompare.com/news/wp-content/uploads/2018/11/18174005/shutterstock_103492934.jpg",
+			"Date":"March 4th 2024",
+			"EditDate":"",
+			"Tags":[],
+			"Author":"The Programmer"
+		}
+	]
+}
