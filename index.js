@@ -1,5 +1,5 @@
-var http = require('http');
-const fs = require('fs/promises');
+var http = require('node:http');
+const fs = require('node:fs/promises');
 
 function error404(res){
 	res.writeHead(200, {'Content-Type': 'text/html'});
